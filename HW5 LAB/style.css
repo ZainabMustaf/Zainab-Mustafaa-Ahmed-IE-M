@@ -1,0 +1,31 @@
+
+
+.link {
+     background-color: #fbff00;
+     text-align: center;
+}
+body {
+   font-family: Arial, sans-serif;
+   margin: 0;
+   padding: 1em;
+   background-image: url("photo_2023-11-17_23-20-49.jpg");
+}
+header {
+   text-align: center;
+   font-style: oblique;
+text-align: center;
+color:  #fbff00;
+}
+section {
+   padding: 2px;
+   color: #f9f9f9;
+ }
+
+ footer {
+   background-color: #333;
+   color: #fff;
+   text-align: center;
+   padding: 2px;
+}
+
+
